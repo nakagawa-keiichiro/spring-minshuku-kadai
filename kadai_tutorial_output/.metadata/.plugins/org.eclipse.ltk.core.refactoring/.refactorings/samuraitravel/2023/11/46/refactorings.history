@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;stripe.js&apos; to &apos;js&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;samuraitravel&apos;&#x0D;&#x0A;- 宛先要素: &apos;js&apos;&#x0D;&#x0A;- オリジナル要素: &apos;stripe.js&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="ファイルを移動する" element1="src/main/resources/static/stripe.js" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1700223162665" target="src/main/resources/static/js" units="0" version="1.0"/>
+</session>
